@@ -1,9 +1,5 @@
 # catering-service
-Here's a reformatted version of your project description suitable for a GitHub README:
 
----
-
-# Catering Service Management System
 
 ## Overview
 
