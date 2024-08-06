@@ -1,4 +1,4 @@
-# catering-service
+# Catering-Service
 
 
 ## Overview
